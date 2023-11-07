@@ -1,4 +1,1 @@
-function myFunc() {
-    document.getElementById
-    
-}
+console.log ('Hello World!');
